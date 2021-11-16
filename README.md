@@ -1,14 +1,13 @@
-# more_experiences
+# AI-Takeover
+A platformer game in which the player competes with AI 
 
-[![codecov](CODECOV_TOKEN='0821e850-a1b2-4f44-950e-1ef23a4d3348')](https://codecov.io/gh/IzabellaPavlova/CPP_homework_2/tree/db6ba8bf7e45cf6f9ef40ac9bd690f517c394891)
-dsadasjdbj '\n'
-sajdhaksjdas
+Team:
+Izabella Pavlova: https://github.com/IzabellaPavlova
+Andrey Lisin: https://github.com/TimFoxers
+Julia Korpusova: https://github.com/julia-kv
+Egor Sergeev: https://github.com/egor-sergeev-n
 
-asdsad
-asdaDSD
-
-ASDAD
-
-
-WQEQWE
-SDF
+Few rules:
+! Make all commits in English
+! Come up with clear branches names and commits
+! Don't commit in other team members branches
