@@ -1,7 +1,7 @@
 # AI-Takeover
 A platformer game in which the player competes with AI 
 
-
+   
 
 Team:
 
@@ -13,7 +13,7 @@ Julia Korpusova: https://github.com/julia-kv
 
 Egor Sergeev: https://github.com/egor-sergeev-n
 
-
+   
 
 Few rules:
 
