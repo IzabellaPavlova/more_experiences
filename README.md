@@ -3,7 +3,7 @@ A platformer game in which the player competes with AI
 
    
 
-Team:
+##Team:
 
 Izabella Pavlova: https://github.com/IzabellaPavlova
 
@@ -15,7 +15,7 @@ Egor Sergeev: https://github.com/egor-sergeev-n
 
    
 
-Few rules:
+##Few rules:
 
 ! Make all commits in English
 
